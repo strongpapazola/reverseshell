@@ -1,0 +1,1 @@
+wscript 1.vbs 2.bat %*
