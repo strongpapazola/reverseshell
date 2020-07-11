@@ -1,1 +1,1 @@
-wscript 1.vbs 2.bat %*
+wscript ..\reverse\1.vbs ..\reverse\2.bat %*
